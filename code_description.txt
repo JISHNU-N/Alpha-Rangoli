@@ -1,0 +1,30 @@
+                     *******alpha rangoli********
+This code is used to print alpha rangoli pattern in python only using the basic list and string operations.
+alpha rangoli forms a rhombus of every single letter around the center letter a.
+It's quite a view to watch it.
+///////you have to enter the input number from 1 to 26. Because we only have 26 English alphabets,
+In here I used the lower case letters\\\\\\\\\\
+
+
+for eg:
+          for an input of 9 the o/p will be like This
+
+          ----------------i----------------
+          --------------i-h-i--------------
+          ------------i-h-g-h-i------------
+          ----------i-h-g-f-g-h-i----------
+          --------i-h-g-f-e-f-g-h-i--------
+          ------i-h-g-f-e-d-e-f-g-h-i------
+          ----i-h-g-f-e-d-c-d-e-f-g-h-i----
+          --i-h-g-f-e-d-c-b-c-d-e-f-g-h-i--
+          i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i
+          --i-h-g-f-e-d-c-b-c-d-e-f-g-h-i--
+          ----i-h-g-f-e-d-c-d-e-f-g-h-i----
+          ------i-h-g-f-e-d-e-f-g-h-i------
+          --------i-h-g-f-e-f-g-h-i--------
+          ----------i-h-g-f-g-h-i----------
+          ------------i-h-g-h-i------------
+          --------------i-h-i--------------
+          ----------------i----------------
+
+  As you can see the code prints the pattern up to the 9th letter i.
